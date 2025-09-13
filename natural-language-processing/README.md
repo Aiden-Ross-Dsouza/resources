@@ -12,6 +12,9 @@ This is one of the most rigorous courses on NLP and it starts from the very basi
 3. [Natural Language Processing by National Research University, Russia](https://www.coursera.org/learn/language-processing)
 This course aims to teach you Natural Language Processing from the ground up, starting from dated statistical methods, and covering everything upto the latest Deep Learning based techniques. The quizzes test mathematical and theoritical knowledge, and the programming assignments make you build stuff. These result in a good blend of theory and practice, which can help if you're the kind that gets bored of just studying and not doing. The final project is enticing and will require you to deploy a telegram chatbot on an AWS machine, which gives you real world experience of how these systems run in production.
 
+4. [100 Days of Deep Learning by CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+The course covers the following major topics: Forward and Backpropagation, Dropout, Activation Functions, Weight Initialization, Normalization (BatchNorm, LayerNorm), Optimizers, Attention Mechanisms, and architectures including ANN, CNN, RNN, LSTM, GRU, and Transformers. It helps develop intuition for complex concepts by systematically examining the shortcomings of prior methods. Each topic is motivated through the limitations of existing approaches, followed by a structured, step-by-step reasoning based on first principles and a clear account of how the new concept addresses these challenges.
+
 ## More Courses
 1. [Natural Language Processing Specialization by Coursera](https://www.coursera.org/specializations/natural-language-processing?)
 3. [Fast.ai - NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
